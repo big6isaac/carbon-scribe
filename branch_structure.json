@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/remove-xss-clean",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/remove-xss-clean": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/remove-xss-clean",
+    "origin"
+  ]
+}
